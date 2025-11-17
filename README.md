@@ -4,11 +4,7 @@
 
 > Using Digital Terrain Models (DTMs) & Digital Surface Models (DSMs) 🚀
 
-Team name: 😎 **dreamer_team** 
-
 Members: 🇳🇱 **Ruben Vos**, 🇬🇷 **Panagiotis Tsoutsouris**, 🇵🇱 **Kuba Kowalski**, 🇨🇳 **Xiaolu Yan**
-
-Challenge number: **`7`**
 
 ## Demo (Downtown Wageningen)
 
@@ -161,7 +157,7 @@ Open the ![Evaluation Notebook](./Python/why_downtown_rmse_equal_1.ipynb) to exp
 
 ## Disclaimer 🤗 
 
-There is a small possibility that scripts may not work for areas outside Wageningen. We did not have enough time to check all regions in the Netherlands.
+There is a possibility that scripts may not work for areas outside Wageningen.
 
 ## References
 
