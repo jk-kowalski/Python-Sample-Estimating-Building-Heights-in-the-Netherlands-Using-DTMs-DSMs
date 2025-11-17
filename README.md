@@ -1,5 +1,3 @@
-[toc]
-
 # **DREAMER:** Estimating Netherland's Building Heights 
 
 > Using Digital Terrain Models (DTMs) & Digital Surface Models (DSMs) 🚀
